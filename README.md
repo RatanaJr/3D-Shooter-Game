@@ -19,7 +19,9 @@ To run the project game, you need to follow these steps:
 That's it. Enjoy running the game!!   
 
 ## Screenshot  
-(![Screenshot 2025-04-06 224222](https://github.com/user-attachments/assets/3ca65020-f124-45c3-97dc-dedba7d4b822)
+![Screenshot 2025-04-06 224222](https://github.com/user-attachments/assets/3ca65020-f124-45c3-97dc-dedba7d4b822)
+![Screenshot 2025-04-06 224222](https://github.com/user-attachments/assets/480e4f94-70b5-4061-b838-8aee8f57809b)
+
 
 
 
