@@ -1,22 +1,21 @@
-# This is Third Submission 3D Shooter Game 
+# 3D Shooter Game (Third Submission)  
 
-## Introduction
+## Introduction  
+Hello Teacher! I'm Mam Sovanratana (E4), and this project focuses on **interaction systems and mission quests** (Sections 9–16). The game is a first-person shooter with objective-based gameplay.  
 
-Hello Teacher! I'm Mam Sovanratana, and I'm in E4. I'm working on a resume project, focusing on the interaction and mission quest systems (sections 9-16).
-If you'd like to verify my progress, you're welcome to check my Unity project assets. I’ve kept everything updated and organized for review.
+Key features:  
+- Dynamic quest tracking (see `Scripts/Missions/`).  
+- Interactive objects (e.g., doors, NPCs).  
 
-## Important
+## How to Run  
+1. **Install Unity Hub** ([download here](https://unity.com/download)).  
+2. **Use Unity LTS 2022.3.x** (or higher).  
+3. **Open the project** in Unity and wait for dependencies to load.  
+4. **Launch the game**: Navigate to `Assets/Scenes/SampleScene.unity` and press Play.  
 
-To run the project game, you need to follow these steps:
-
-1. Download unity hub from the browser
-2. Install the editor using Unity LTS ( Long Term Support)
-3. Open the project and wait for it to load
-4. Go to the 'Scenes' folder and open SampleScene.
-
-
-
-That's it. Enjoy running the game!!   
+## Notes for Review  
+- Quest logic is in `Scripts/Missions/QuestManager.cs`.  
+- Interactions are handled via `Scripts/Interaction/`.  
 
 ## Screenshot  
 ![Screenshot 2025-04-06 224222](https://github.com/user-attachments/assets/3ca65020-f124-45c3-97dc-dedba7d4b822)
