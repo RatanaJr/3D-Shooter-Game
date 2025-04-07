@@ -3,6 +3,7 @@
 ## Introduction
 
 Hello Teacher! I'm Mam Sovanratana, and I'm in E4. I'm working on a resume project, focusing on the interaction and mission quest systems (sections 9-16).
+If you'd like to verify my progress, you're welcome to check my Unity project assets. I’ve kept everything updated and organized for review.
 
 ## Important
 
