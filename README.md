@@ -2,7 +2,10 @@
 
 ## Introduction  
 
-Hello Teacher! I'm Mam Sovanratana (E4), and this project focuses on **interaction systems and mission quests** (Sections 9-16). The game is a first-person shooter with objective-based gameplay.  
+Hello Teacher! I'm Mam Sovanratana (E4), and this project focuses on **interaction systems and mission quests** (Sections 9-16). The game is a first-person shooter with objective-based gameplay, featuring:  
+
+![Gameplay Demo](https://github.com/user-attachments/assets/c98b514d-b0ee-4788-b8e3-94175ecf3337)  
+*(Short demo: Player interacting with an NPC and completing a quest objective.)*  
 
 Key features:  
 
